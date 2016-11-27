@@ -1,0 +1,22 @@
+Step 1: Download, extract 'Matrix Fitting Toolbox' 
+	(https://www.sintef.no/projectweb/vectfit/) 
+	and add it to matlab path.
+
+Step 2: Download, extract 'M2VerilogA.zip' 
+	and add it to matlab path. 
+
+Step 3: run demo.m in M2VerilogA to find various features
+
+Step 4: The identified models are saved in a VerilogA file '.va' 
+	with the same name as input file. This file can be directly
+	interfaced with circuit simulators
+
+_______________________________________________________________
+
+Feedback/Questions - zohaib@alumn.mit.edu
+
+Copyright (C) 2010, Zohaib Mahmood (zohaib@alumn.mit.edu)
+Massachusetts Institute of Technology
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY.
